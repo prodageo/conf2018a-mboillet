@@ -2,24 +2,28 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
- - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
- - Audience : ...
- - Auteur du billet : ...
- - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+ - Manifestation : CodeursEnSeine 2018
+ - Lieu : Kindarena - Palais des sports de Rouen
+ - Conférence : Style(d) et React, même Compo
+ - Horaire de la conférence : 12h00
+ - Durée de la conférence : 15min
+ - Conférenciers :
+   - Marion DEVEAUX, ![Marion Deveaux](https://www.linkedin.com/in/marion-deveaux-a70107a0/)
+   - Valentin DESPORTES, ![Valentin Desportes](https://www.linkedin.com/in/valentin-desportes-38b6bba7)
+ - Audience : ~ 100 personnes
+ - Auteur du billet : Mélodie Boillet
+ - Mots-clés : ReactJS, StyledComponents, Attineos, Application Web, CSS.
+ - URL de l'illustration : ![StyledComponents](https://cdn-images-1.medium.com/max/2000/1*TO5cYT14YsCfR-j1xdp8lw.png)
+   - quelques sources : https://www.styled-components.com/docs, https://github.com/styled-components/styled-components, https://alligator.io/react/styled-components/, https://medium.com/tech-tajawal/react-styled-components-79e94f771732
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence
- - Nombre de diapos du support :
+ - Aucun support car live coding. Répertoire avec l'application créée lors de la conférence : https://github.com/attineos/codeurs-en-seine-2018
+ - Nombre de diapos du support : 0
  - Plan du support :
+    * Présentation de l'application avant utilisation de styled-components,
+    * Explication des objectifs de la conférence,
+    * Mise en place de styled-components dans l'applications,
+    * Améliorations et conclusion.
 
 ## Résumé
 ...
