@@ -23,12 +23,12 @@
 ## Support
  - Aucun support car live coding.
  
-   Répertoire avec l'application créée lors de la conférence : https://github.com/attineos/codeurs-en-seine-2018
+   Répertoire avec l'application créée lors de la conférence : https://github.com/attineos/codeurs-en-seine-2018.
  - Nombre de diapos du support : 0
  - Plan du support :
     * Introduction et présentation de l'application avant utilisation de styled-components,
     * Explication des objectifs de la conférence,
-    * Mise en place de styled-components dans l'applications,
+    * Mise en place de styled-components dans l'application,
     * Améliorations et conclusion.
 
 ## Résumé
