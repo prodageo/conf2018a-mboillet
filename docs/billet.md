@@ -1,4 +1,4 @@
-# Titre
+# Résumé conférence CodeursEnSeine 2018 - Mélodie Boillet
 
 ## Cartouche d'identification
 
@@ -9,7 +9,7 @@
  - Durée de la conférence : 15min
  - Conférenciers :
    - Marion DEVEAUX : ![LinkedIn](https://www.linkedin.com/in/marion-deveaux-a70107a0/)
-   - Valentin DESPORTES, ![LinkedIn](https://www.linkedin.com/in/valentin-desportes-38b6bba7)
+   - Valentin DESPORTES : ![LinkedIn](https://www.linkedin.com/in/valentin-desportes-38b6bba7)
  - Audience : ~ 100 personnes
  - Auteur du billet : Mélodie Boillet
  - Mots-clés : ReactJS, StyledComponents, Attineos, Application Web, CSS.
@@ -22,10 +22,11 @@
 
 ## Support
  - Aucun support car live coding.
+ 
    Répertoire avec l'application créée lors de la conférence : https://github.com/attineos/codeurs-en-seine-2018
  - Nombre de diapos du support : 0
  - Plan du support :
-    * Présentation de l'application avant utilisation de styled-components,
+    * Introduction et présentation de l'application avant utilisation de styled-components,
     * Explication des objectifs de la conférence,
     * Mise en place de styled-components dans l'applications,
     * Améliorations et conclusion.
@@ -34,4 +35,4 @@
 ...
 
 ## Architecture et facteur qualité
-...
+Cette conférence et plus particulièrement l'utilisation de styled-components influe principalement sur le facteur qualité _Adaptabilité_. En effet, l'utilisation de styled-components permet de créer ses propres composants CSS en JavaScript directement dans le code de l'application web. Créer un composant nécessite peu de connaissances autres que celle du CSS, il est donc simple et rapide d'en créer. En effet, pour créer des composants, les intervenants ont simplement copié le code CSS dans la déclaration du composant dans un fichier JavaScript. De plus, les composants ainsi créés peuvent être étendus et réutilisés dans toute l'application. On peut donc faire de l'héritage de composants et en créer de nouveaux sans trop d'efforts. Ainsi, l'utilisation de styled-components permet de minimiser les efforts nécessaires à la modification de différents composants.
