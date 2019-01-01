@@ -8,8 +8,8 @@
  - Horaire de la conférence : 12h00
  - Durée de la conférence : 15min
  - Conférenciers :
-   - Marion DEVEAUX : ![LinkedIn](https://www.linkedin.com/in/marion-deveaux-a70107a0/)
-   - Valentin DESPORTES : ![LinkedIn](https://www.linkedin.com/in/valentin-desportes-38b6bba7)
+   - Marion DEVEAUX : [LinkedIn](https://www.linkedin.com/in/marion-deveaux-a70107a0/)
+   - Valentin DESPORTES : [LinkedIn](https://www.linkedin.com/in/valentin-desportes-38b6bba7)
  - Audience : ~ 100 personnes
  - Auteur du billet : Mélodie Boillet
  - Mots-clés : ReactJS, StyledComponents, Attineos, Application Web, CSS.
